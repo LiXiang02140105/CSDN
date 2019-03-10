@@ -14,3 +14,6 @@ tmall-index.html 和 tmall-index.css
   1、第一个是使用 onclick() 的方式启动tab切换的效果；
   2、第二个是利用window.onload 实现tab hover的时候，启动tab切换的效果；
   3、第三个是图片轮播的js代码；
+
+test文件夹中实现的是分块的代码:
+  /homework/test/test-lunbo.html 实现了轮播图的效果
