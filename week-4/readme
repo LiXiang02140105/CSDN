@@ -1,0 +1,16 @@
+2019年2月25日 - 2019年3月10日
+copyright lixiang
+
+tmall-index.html 和 tmall-index.css
+  是仿照天猫的主页(https://www.tmall.com/)进行的一次联系
+ 
+ images: 保存在本地的部分图片
+ javascript: 主页图片轮播的js代码
+ 
+ html文件：
+  内容主要由top、header、content 和 footer组成
+  
+<head> 中script部分有三个js代码：
+  1、第一个是使用 onclick() 的方式启动tab切换的效果；
+  2、第二个是利用window.onload 实现tab hover的时候，启动tab切换的效果；
+  3、第三个是图片轮播的js代码；
